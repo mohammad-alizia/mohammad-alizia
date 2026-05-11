@@ -7,11 +7,11 @@
 
 <h6 align="left">I’m passionate about clean code, performance optimization, intuitive UI/UX, and scalable frontend architecture. I enjoy collaborating with cross-functional teams to transform complex requirements into elegant, reliable products that create real business value.</h3>
 
-- 🔭 I’m currently working as **Front-End Developer**
+- 🔭 Working as **Full-Stack Developer**
 
-- 🌱 I’m currently learning **Nestjs**
+- 🌱 I’m currently learning **AI Automations**
 
-- 💬 Ask me about **ReactJS, React Native**
+- 💬 Ask me about **ReactJS, React Native, MERN and MEVN**
 
 - 📫 How to reach me **mohammadalizia@creatosaurus.org** or **mohammadalizia237@gmail.com**
 
