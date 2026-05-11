@@ -1,11 +1,11 @@
 <h1 align="left">Hello 👋, I'm Muhammad Ali Zia</h1>
-<h3 align="left">Software Engineer with 5+ years of professional experience building modern, scalable, and high-performance web and mobile applications using React.js, React Native, JavaScript, and the MERN stack.</h3>
+<h6 align="left">Software Engineer with 5+ years of professional experience building modern, scalable, and high-performance web and mobile applications using React.js, React Native, JavaScript, and the MERN stack.</h3>
 
 
-<h3 align="left">I specialize in crafting user-centric digital experiences, developing reusable component architectures, and optimizing applications for speed, scalability, and maintainability. My experience includes building responsive web apps, cross-platform mobile solutions, dashboards, SaaS products, and API-driven interfaces in agile development environments.</h3>
+<h6 align="left">I specialize in crafting user-centric digital experiences, developing reusable component architectures, and optimizing applications for speed, scalability, and maintainability. My experience includes building responsive web apps, cross-platform mobile solutions, dashboards, SaaS products, and API-driven interfaces in agile development environments.</h3>
 
 
-<h3 align="left">I’m passionate about clean code, performance optimization, intuitive UI/UX, and scalable frontend architecture. I enjoy collaborating with cross-functional teams to transform complex requirements into elegant, reliable products that create real business value.</h3>
+<h6 align="left">I’m passionate about clean code, performance optimization, intuitive UI/UX, and scalable frontend architecture. I enjoy collaborating with cross-functional teams to transform complex requirements into elegant, reliable products that create real business value.</h3>
 
 - 🔭 I’m currently working as **Front-End Developer**
 
