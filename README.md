@@ -1,5 +1,10 @@
 <h1 align="center">Hello 👋, I'm Muhammad Ali Zia</h1>
-<h3 align="center">A Software Engineer, with 5 years of experince in Full-Stack Development with major focus of Front-End. I'm passionate about learning new technology and how I can contribute to make a better future. I'm feel proud using my skill to create innovative solution. Let connect and talk about how I can help you or your organization!</h3>
+<h3 align="center">Software Engineer with 5+ years of professional experience building modern, scalable, and high-performance web and mobile applications using React.js, React Native, JavaScript, and the MERN stack.
+
+I specialize in crafting user-centric digital experiences, developing reusable component architectures, and optimizing applications for speed, scalability, and maintainability. My experience includes building responsive web apps, cross-platform mobile solutions, dashboards, SaaS products, and API-driven interfaces in agile development environments.
+
+
+I’m passionate about clean code, performance optimization, intuitive UI/UX, and scalable frontend architecture. I enjoy collaborating with cross-functional teams to transform complex requirements into elegant, reliable products that create real business value.</h3>
 
 - 🔭 I’m currently working as **Front-End Developer**
 
@@ -7,7 +12,7 @@
 
 - 💬 Ask me about **ReactJS, React Native**
 
-- 📫 How to reach me **mohammadalizia237@gmail.com**
+- 📫 How to reach me **mohammadalizia@creatosaurus.org** or **mohammadalizia237@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
